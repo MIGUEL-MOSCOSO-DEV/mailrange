@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+*.eml
+report.json
+antes.json
+despues.json
+policy.json
+.env
